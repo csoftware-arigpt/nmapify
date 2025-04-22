@@ -32,5 +32,5 @@ def scan_host(host, ports="1-1024"):
                     "vulners": vulners_data
                 }
     
-    return json.dumps(scan_data, indent=2)
+    return json.dumps(scan_data)
 

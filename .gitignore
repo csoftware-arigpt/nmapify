@@ -1,0 +1,6 @@
+venv/
+src/__pycache__/
+src/test.py
+src/scanner.db
+src/.env
+
